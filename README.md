@@ -10,11 +10,13 @@
 
 ## Project Structure
 ```
-├── netflix_large_user_data.xlsx   # Original dataset
-├── netflix_cleaned.csv            # Cleaned dataset (13 columns)
-├── Netflix_Project.ipynb          # Full analysis notebook (Google Colab)
+├── Netflix_Data_Analytics.ipynb   # Full analysis notebook (Google Colab)
 ├── README.md
+└── LICENSE
 ```
+
+The dataset (`netflix_large_user_data.xlsx`) is not committed. Download it from Kaggle and
+upload it to the Colab session's `/content/` folder before running the notebook.
 
 ## Methodology
 
